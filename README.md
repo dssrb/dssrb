@@ -14,7 +14,7 @@ I'm Dushyanth Reddy, a graduate with a Master's in Data Science at Indiana Unive
 My research interests lie at the Conversational AI and Multimodal LLMs. 
 
 ## 💻 LLM Expertise
-Model Architectures: Transformer, BERT, GPT, T5, BART<br/>
+Model Architectures: Transformer, BERT, GPT2, Claude 3.5, Gpt-4, Gpt-4Omini, Nemotron-4, llama 3.1 <br/>
 Training & Fine-tuning: Pre-training, Fine-tuning, Few-shot learning, Zero-shot learning<br/>
 Optimization Techniques: Mixed-precision training, Gradient accumulation, Distributed training<br/>
 Efficiency Methods: Quantization, Pruning, Knowledge distillation, Parameter-efficient fine-tuning (LoRA, Adapter)<br/>
